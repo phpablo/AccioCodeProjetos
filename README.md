@@ -11,7 +11,7 @@
 *Explore os projetos web que criei para aplicar o que aprendi. Desde pequenas páginas web até aplicativos interativos, você encontrará uma variedade de projetos pessoais.*
 
 - 🍎[Clone Apple Home Page](https://github.com/phpablo/clone-homepage-apple)
-- 🔓[Site em CRUD](https://github.com/phpablo/blogdocrud)
+- 🔓[Site em CRUD](https://github.com/phpablo/Projeto002BlogDoCRUD.git)
 
 ## Como explorar:
 
