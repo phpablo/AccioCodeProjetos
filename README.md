@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">🧙‍♂️AccioCode⚡</h1>
+<h1 align="center">AccioCode⚡</h1>
 
 <p align="center">O repositório "AccioCode" é o espaço onde eu compartilho e armazeno meus projetos de desenvolvimento de sites e sistemas web. Aqui, você encontrará uma coleção diversificada de projetos, desde pequenas demonstrações e exercícios de programação até aplicativos mais complexos e soluções inovadoras.<p/>
   
@@ -16,10 +16,9 @@
 ### Projetos Pessoais
 *Explore os projetos web que criei para aplicar o que aprendi. Desde pequenas páginas web até aplicativos interativos, você encontrará uma variedade de projetos pessoais.*
 
-- 🍎[Clone Apple Home Page](https://github.com/phpablo/clone-homepage-apple)
-- 🔓[Site em CRUD](https://github.com/phpablo/Projeto002BlogDoCRUD.git)
+- 🍎[Clone Apple Home Page](https://phpablo.github.io/clone-homepage-apple/)
 - 🐶[PetLife - OneBitCode](https://phpablo.github.io/Projeto003PetLife/)
-- ⚡[Bruxocord](https://github.com/phpablo/Projeto004_Bruxocord)
+
   
 ## Como explorar: 
 
@@ -32,8 +31,4 @@
 
 ## Autor:
 
-🚀Pablo Henrique, mais conhecido como Zero Meia, vulgo PHPablo 🥇
-
-🧠 Obrigado por se juntar a mim nesta jornada de aprendizado em desenvolvimento web. Vamos aprender e crescer juntos!
-
-
+🚀Pablo Henrique, mais conhecido como Zero Meia.
